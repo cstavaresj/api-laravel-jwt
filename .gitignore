@@ -1,0 +1,11 @@
+*.log
+/back-end/storage/logs/*
+
+/back-end/.env
+
+/back-end/vendor/
+
+/back-end/storage/framework/cache/data/*
+/back-end/storage/framework/sessions/*
+/back-end/storage/framework/testing/*
+/back-end/storage/framework/views/*
